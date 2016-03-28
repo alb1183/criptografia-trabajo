@@ -1,21 +1,15 @@
-﻿Compilación iniciada a las 25/03/2016 19:37:17.
-     1>Proyecto "O:\usuario2\Mis Programas\criptografia trabajo\criptografia trabajo\criptografia trabajo.vcxproj" en el nodo 2 (build destinos).
+﻿Compilación iniciada a las 28/03/2016 12:55:30.
+     1>Proyecto "O:\usuario2\Mis Programas\criptografia-trabajo\criptografia trabajo\criptografia trabajo.vcxproj" en el nodo 2 (build destinos).
      1>InitializeBuildStatus:
          Se creará "Debug\criptografia trabajo.unsuccessfulbuild" porque se especificó "AlwaysCreate".
        ClCompile:
          Todas las salidas están actualizadas.
          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\criptografia trabajo.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "criptografia trabajo.cpp"
          criptografia trabajo.cpp
-     1>o:\usuario2\mis programas\criptografia trabajo\criptografia trabajo\criptografia trabajo.cpp(36): warning C4309: '=' : truncamiento de valor constante
-     1>o:\usuario2\mis programas\criptografia trabajo\criptografia trabajo\criptografia trabajo.cpp(43): warning C4018: '<' : no coinciden signed/unsigned
-     1>o:\usuario2\mis programas\criptografia trabajo\criptografia trabajo\criptografia trabajo.cpp(112): warning C4018: '<' : no coinciden signed/unsigned
-     1>o:\usuario2\mis programas\criptografia trabajo\criptografia trabajo\criptografia trabajo.cpp(142): warning C4018: '<' : no coinciden signed/unsigned
-     1>o:\usuario2\mis programas\criptografia trabajo\criptografia trabajo\criptografia trabajo.cpp(184): warning C4018: '<' : no coinciden signed/unsigned
-     1>o:\usuario2\mis programas\criptografia trabajo\criptografia trabajo\criptografia trabajo.cpp(216): warning C4018: '<' : no coinciden signed/unsigned
        ManifestResourceCompile:
          Todas las salidas están actualizadas.
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"O:\usuario2\Mis Programas\criptografia trabajo\Debug\criptografia trabajo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\criptografia trabajo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"O:\usuario2\Mis Programas\criptografia trabajo\Debug\criptografia trabajo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"O:\usuario2\Mis Programas\criptografia trabajo\Debug\criptografia trabajo.lib" /MACHINE:X86 "Debug\criptografia trabajo.exe.embed.manifest.res"
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"O:\usuario2\Mis Programas\criptografia-trabajo\Debug\criptografia trabajo.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\criptografia trabajo.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"O:\usuario2\Mis Programas\criptografia-trabajo\Debug\criptografia trabajo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"O:\usuario2\Mis Programas\criptografia-trabajo\Debug\criptografia trabajo.lib" /MACHINE:X86 "Debug\criptografia trabajo.exe.embed.manifest.res"
          "Debug\criptografia trabajo.obj"
          Debug\stdafx.obj
        Manifest:
@@ -23,12 +17,12 @@
          Todas las salidas están actualizadas.
        LinkEmbedManifest:
          Todas las salidas están actualizadas.
-         criptografia trabajo.vcxproj -> O:\usuario2\Mis Programas\criptografia trabajo\Debug\criptografia trabajo.exe
+         criptografia trabajo.vcxproj -> O:\usuario2\Mis Programas\criptografia-trabajo\Debug\criptografia trabajo.exe
        FinalizeBuildStatus:
          Se eliminará el archivo "Debug\criptografia trabajo.unsuccessfulbuild".
          Aplicando tarea Touch a "Debug\criptografia trabajo.lastbuildstate".
-     1>Compilación del proyecto terminada "O:\usuario2\Mis Programas\criptografia trabajo\criptografia trabajo\criptografia trabajo.vcxproj" (build destinos).
+     1>Compilación del proyecto terminada "O:\usuario2\Mis Programas\criptografia-trabajo\criptografia trabajo\criptografia trabajo.vcxproj" (build destinos).
 
 Compilación correcta.
 
-Tiempo transcurrido 00:00:00.77
+Tiempo transcurrido 00:00:00.81
